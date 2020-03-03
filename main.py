@@ -1,6 +1,7 @@
 # utf-8
 import time
 # test for git in pycharm
+# test2 for git in pycharm
 
 
 class LazyPerson(object):
@@ -74,3 +75,5 @@ if __name__ == "__main__":
     # enjoy a day
     lazy_tom.enjoy_a_lazy_day()
     lazy_jerry.enjoy_a_lazy_day()
+
+# test2 too
